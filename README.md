@@ -1,3 +1,9 @@
+### Set up environment
+
+```bash
+pip install segmentation-models-pytorch
+```
+
 ### Inference
 
 ```bash
