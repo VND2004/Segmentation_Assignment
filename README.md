@@ -1,4 +1,4 @@
-### Set up environment
+### Setup the environment
 
 ```bash
 pip install segmentation-models-pytorch
