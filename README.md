@@ -8,7 +8,7 @@ pip install segmentation-models-pytorch
 
 ```bash
 git clone https://github.com/VND2004/Segmentation_Assignment.git
-cd inference
+cd Segmentation_Assignment/inference
 python3 infer.py --image_path image.jpeg
 ```
 ### Checkpoint link on Google Drive  
